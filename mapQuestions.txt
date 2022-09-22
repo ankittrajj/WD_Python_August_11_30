@@ -1,0 +1,14 @@
+Write a Python program to triple 
+all numbers of a given list of integers. 
+Use Python map
+
+Write a Python program to add three 
+given lists using Python map and lambda. 
+
+ Write a Python program to square the 
+elements of a list using map() function. 
+
+#wap a program to find the average of 5 numbers using lamda 
+# function.
+# Wap to find the max and min of 3 numbers and find their average
+# with the help of lamda function.
